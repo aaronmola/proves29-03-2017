@@ -5,6 +5,10 @@ public class mainHola {
 		// TODO Auto-generated method stub
 		//hola
 		//no va
+		/*Aquest és el primer
+		 * comentari de Pere Vicent
+		 * en el projecte d'Aarón
+		 */
 	}
 
 }
